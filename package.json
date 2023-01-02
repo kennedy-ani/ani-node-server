@@ -1,0 +1,25 @@
+{
+  "name": "ani-node-server",
+  "version": "1.0.0",
+  "description": "Basic Server Built with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennedy-ani/ani-node-server.git"
+  },
+  "author": "Kennedy Ani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennedy-ani/ani-node-server/issues"
+  },
+  "homepage": "https://github.com/kennedy-ani/ani-node-server#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
